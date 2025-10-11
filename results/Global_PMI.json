@@ -1,0 +1,32 @@
+{
+    "tolerance": [
+        {
+            "linear": {
+                "1~4": "±0.02",
+                "4~16": "±0.05",
+                "16~63": "±0.08",
+                "63~250": "±0.15",
+                "250~1000": "±0.20"
+            },
+            "angular": {}
+        }
+    ],
+    "material": [
+        {
+            "type": "aluminum alloy",
+            "grade": "6061-T6"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0.095,
+            "unit": "kg"
+        }
+    ],
+    "unit": "mm",
+    "scale": "1:1",
+    "additional_machining_requirements": [
+        "Unless otherwise specified, follow GB/T 1184-1996 standard for tolerances.",
+        "All sharp edges shall be chamfered or rounded with R0.5 unless otherwise specified."
+    ]
+}
