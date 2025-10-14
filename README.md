@@ -48,4 +48,4 @@ providers = ['CUDAExecutionProvider']
 
 **EX.3: General PMI**
 
-Configure your own MLLM API key or set `raw_img_path` to False to disable General PMI recognition.
+Configure your own MLLM API key or set `raw_img_path` to `False` to disable General PMI recognition.
