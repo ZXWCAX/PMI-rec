@@ -21,3 +21,8 @@ if using gpu for inference:
 ```bash
 pip install onnxruntime-gpu
 ```
+
+**Step 3: inference**
+```bash
+python detect.py
+```
