@@ -27,6 +27,11 @@ pip install onnxruntime-gpu
 python detect.py
 ```
 
+
+
+
+
+
 **EX.1: Change the ED**
 
 Modify line 11 of detect.py:
