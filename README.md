@@ -27,14 +27,14 @@ pip install onnxruntime-gpu
 python detect.py
 ```
 
-**EX.1:Change the ED**
+**EX.1: Change the ED**
 
 Modify line 11 of detect.py:
 ```python
 raw_img_path = 'test_image/2025-A-1-4706.png'
 ```
 
-**EX.2:Change the providers**
+**EX.2: Change the providers**
 
 Modify line 88 of detect.py:
 CPU:
