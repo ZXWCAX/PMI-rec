@@ -7,7 +7,6 @@ A deep learning based method for identifying product manufacturing information (
 > **Journal of Intelligent Manufacturing**, published online 11 November 2025.
 >
 > - Paper (DOI): https://doi.org/10.1007/s10845-025-02731-0
-> - Code: https://github.com/ZXWCAX/PMI-rec
 
 ```bibtex
 @article{zong2025pmi,
