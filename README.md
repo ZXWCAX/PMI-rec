@@ -1,3 +1,25 @@
+# PMI-rec
+
+A deep learning based method for identifying product manufacturing information (PMI) in engineering drawings (EDs).
+
+> **Paper**: Yikai Zong, Yunhong Xu, Maolin Cai, Xiaomeng Tong, Fangwei Ning, Yuxin Zhang.
+> *A deep learning based method for identifying product manufacturing information in engineering drawings.*
+> **Journal of Intelligent Manufacturing**, published online 11 November 2025.
+>
+> - Paper (DOI): https://doi.org/10.1007/s10845-025-02731-0
+> - Code: https://github.com/ZXWCAX/PMI-rec
+
+```bibtex
+@article{zong2025pmi,
+  title={A deep learning based method for identifying product manufacturing information in engineering drawings},
+  author={Zong, Yikai and Xu, Yunhong and Cai, Maolin and Tong, Xiaomeng and Ning, Fangwei and Zhang, Yuxin},
+  journal={Journal of Intelligent Manufacturing},
+  year={2025},
+  publisher={Springer},
+  doi={10.1007/s10845-025-02731-0}
+}
+```
+
 **Step 1: Clone the Repository**
 ```bash
 git clone https://github.com/ZXWCAX/PMI-rec.git
